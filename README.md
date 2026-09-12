@@ -19,9 +19,6 @@
 
 ---
 
-</td>
-<td width="50%" valign="top">
-
 ## 🌟 Overview
 
 This project implements a **collaborative AI workflow** for financial analysis using **four specialized agents**:
