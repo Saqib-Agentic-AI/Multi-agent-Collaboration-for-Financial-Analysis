@@ -1,3 +1,8 @@
+<!-- Animated Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:2C5364,100:00C9A7&text=Multi-Agent%20Collaboration%20for%20Financial%20Analysis&fontColor=ffffff&fontSize=34&fontAlignY=38&desc=Built%20with%20CrewAI%20%7C%20Hierarchical%20AI%20Finance%20Workflow&descAlignY=58&animation=twinkling" alt="Animated Banner"/>
+</p>
+
 # 🚀 Multi-agent Collaboration for Financial Analysis
 
 <p align="center">
@@ -10,6 +15,51 @@
 <p align="center">
   <b>A hierarchical multi-agent financial analysis system built with CrewAI</b><br/>
   combining specialized agents to produce structured, explainable, and risk-aware market insights.
+</p>
+
+---
+
+## 🌗 Dark / Light Mode Visual Sections
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌙 Dark Mode
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Theme-Dark-111827?style=for-the-badge&logo=github&logoColor=white" alt="Dark Theme"/>
+</p>
+
+```text
+High-contrast styling for deep-focus workflows.
+Best for long coding and analysis sessions.
+```
+
+</td>
+<td width="50%" valign="top">
+
+### ☀️ Light Mode
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Theme-Light-F3F4F6?style=for-the-badge&logo=github&logoColor=111827" alt="Light Theme"/>
+</p>
+
+```text
+Clean and elegant visual style for readability.
+Great for docs-first browsing and presentations.
+```
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Saqib-Agentic-AI&show_icons=true&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Saqib-Agentic-AI&show_icons=true&theme=default&hide_border=true" />
+    <img alt="GitHub Stats Theme Adaptive" src="https://github-readme-stats.vercel.app/api?username=Saqib-Agentic-AI&show_icons=true&theme=default&hide_border=true" height="165" />
+  </picture>
 </p>
 
 ---
