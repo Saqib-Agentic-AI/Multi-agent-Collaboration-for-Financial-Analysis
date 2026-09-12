@@ -19,23 +19,6 @@
 
 ---
 
-## 🌗 Dark / Light Mode Visual Sections
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌙 Dark Mode
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Theme-Dark-111827?style=for-the-badge&logo=github&logoColor=white" alt="Dark Theme"/>
-</p>
-
-```text
-High-contrast styling for deep-focus workflows.
-Best for long coding and analysis sessions.
-```
-
 </td>
 <td width="50%" valign="top">
 
