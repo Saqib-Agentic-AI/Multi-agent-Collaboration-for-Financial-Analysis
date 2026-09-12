@@ -101,7 +101,7 @@ OPENAI_API_KEY=your_openai_api_key
 OPENAI_MODEL=gpt-4o-mini
 ```
 
-#### Option C — Google Gemini models
+#### Option B — Google Gemini models
 ```env
 GOOGLE_API_KEY=your_google_api_key
 GEMINI_MODEL=gemini-1.5-pro
