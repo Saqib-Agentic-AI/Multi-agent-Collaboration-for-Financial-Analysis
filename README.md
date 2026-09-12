@@ -39,31 +39,6 @@ Best for long coding and analysis sessions.
 </td>
 <td width="50%" valign="top">
 
-### ☀️ Light Mode
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Theme-Light-F3F4F6?style=for-the-badge&logo=github&logoColor=111827" alt="Light Theme"/>
-</p>
-
-```text
-Clean and elegant visual style for readability.
-Great for docs-first browsing and presentations.
-```
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Saqib-Agentic-AI&show_icons=true&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Saqib-Agentic-AI&show_icons=true&theme=default&hide_border=true" />
-    <img alt="GitHub Stats Theme Adaptive" src="https://github-readme-stats.vercel.app/api?username=Saqib-Agentic-AI&show_icons=true&theme=default&hide_border=true" height="165" />
-  </picture>
-</p>
-
----
-
 ## 🌟 Overview
 
 This project implements a **collaborative AI workflow** for financial analysis using **four specialized agents**:
@@ -122,7 +97,7 @@ These agents operate in a **hierarchical collaboration pipeline**, where each ro
 
 ## ✅ General Requirements (Before Running)
 
-> These are the **common requirements** users should understand before using this project.
+> These are **common requirements** users should understand before using this project.
 
 ### 1) Python Environment
 - Python **3.10+** recommended
@@ -146,19 +121,13 @@ OPENAI_API_KEY=your_openai_api_key
 OPENAI_MODEL=gpt-4o-mini
 ```
 
-#### Option B — Anthropic models
-```env
-ANTHROPIC_API_KEY=your_anthropic_api_key
-ANTHROPIC_MODEL=claude-3-5-sonnet-latest
-```
-
 #### Option C — Google Gemini models
 ```env
 GOOGLE_API_KEY=your_google_api_key
 GEMINI_MODEL=gemini-1.5-pro
 ```
 
-#### Option D — Local LLM via OpenAI-compatible endpoint (recommended for local/private usage)
+#### Option C — Local LLM via OpenAI-compatible endpoint (recommended for local/private usage)
 Examples: **Ollama**, **LM Studio**, **vLLM**, or any OpenAI-compatible server.
 
 ```env
@@ -225,12 +194,6 @@ python main.py
 - Fast onboarding for new users
 - Compatibility guidance for cloud + local LLMs
 - Responsible usage framing for finance domain
-
----
-
-## ⚠️ Disclaimer
-
-This repository is for **educational and research purposes**. Nothing in this project constitutes financial advice, investment solicitation, or a guarantee of future performance.
 
 ---
 
